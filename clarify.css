@@ -2,8 +2,8 @@
   font-family: 'clarify';
   font-weight: normal;
   font-style: normal;
-  src: url('../fonts/clarify/clarify.eot');
-  src: url('../fonts/clarify/clarify.eot') format('embedded-opentype'), url('../fonts/clarify/clarify.ttf') format('truetype'), url('../fonts/clarify/clarify.woff') format('woff'), url('../fonts/clarify/clarify.svg') format('svg');
+  src: url('./fonts/clarify/clarify.eot');
+  src: url('./fonts/clarify/clarify.eot') format('embedded-opentype'), url('./fonts/clarify/clarify.ttf') format('truetype'), url('./fonts/clarify/clarify.woff') format('woff'), url('./fonts/clarify/clarify.svg') format('svg');
 }
 [class^='icon-'], [class*=' icon-'] {
   font-family: 'clarify' !important;
